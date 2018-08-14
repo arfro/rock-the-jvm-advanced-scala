@@ -1,6 +1,4 @@
-package lectures
-
-import scala.collection.immutable.Range
+package lectures.part1
 
 object AdvancedPatternMatching extends App {
 
